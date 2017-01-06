@@ -1,0 +1,11 @@
+
+class="user name"User {
+    color: crimson
+}
+table, 
+td {
+    border: 3px solid #000;
+    width: 600px;
+    height:50px;
+    text-align: center;
+}
